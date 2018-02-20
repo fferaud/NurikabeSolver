@@ -1,5 +1,5 @@
 # Nurikabe Solver and Generator
-**Study project : **
+**Study project :**
 * A solver for the brainteaser Nurikabe in C++ and Qt.
 * A Nurikabe grid generator with customizable size.
 
